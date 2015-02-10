@@ -1,0 +1,109 @@
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\MyMvcSite.Domain.dll.config
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\MyMvcSite.Domain.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\MyMvcSite.Domain.pdb
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Antlr3.Runtime.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\EntityFramework.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\EntityFramework.SqlServer.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Google.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Web.Infrastructure.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Newtonsoft.Json.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Owin.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Helpers.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Mvc.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Optimization.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Razor.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.Deployment.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.Razor.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\WebGrease.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Helpers.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Mvc.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Optimization.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Razor.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.Deployment.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.Razor.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Antlr3.Runtime.pdb
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Newtonsoft.Json.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\EntityFramework.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\EntityFramework.SqlServer.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Google.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.csprojResolveAssemblyReference.cache
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.dll
+c:\users\waffles\documents\visual studio 2013\Projects\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.pdb
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\MyMvcSite.Domain.dll.config
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\MyMvcSite.Domain.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\MyMvcSite.Domain.pdb
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Antlr3.Runtime.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\EntityFramework.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\EntityFramework.SqlServer.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Newtonsoft.Json.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Owin.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Helpers.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Mvc.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Optimization.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Razor.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.Razor.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\WebGrease.dll
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Helpers.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Mvc.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Optimization.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.Razor.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\System.Web.WebPages.Razor.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Antlr3.Runtime.pdb
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Newtonsoft.Json.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\EntityFramework.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\EntityFramework.SqlServer.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\waffles\Desktop\CS296\Lab3\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.pdb
