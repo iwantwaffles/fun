@@ -10,7 +10,7 @@ namespace MyMvcSite.Domain.Models
         public string Body { get; set; }
         public DateTime CreationDate { get; set; }
         public DateTime LastUpdated { get; set; }
-        public MemberViewModel Username { get; set; }
+        public MemberViewModel MemberID { get; set; }
     }
 
     public class MemberViewModel

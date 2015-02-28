@@ -9,8 +9,10 @@ namespace MyMvcSite.Domain.Models
     {
         public int PostID { get; set; }
         public string Body { get; set; }
-        public string Member { get; set; }
+        public string MemberID { get; set; }
         public DateTime CreationDate { get; set; }
         public DateTime LastUpdated { get; set; }
+
+        
     }
 }

@@ -25,7 +25,7 @@ namespace MyMvcSite.Domain.Controllers
                 {
                     Body = aPost.Body,
                     CreationDate = aPost.CreationDate,
-                    Username = new MemberViewModel()
+                    MemberID = new MemberViewModel()
                     {
                         UserName = u.UserName
                     }

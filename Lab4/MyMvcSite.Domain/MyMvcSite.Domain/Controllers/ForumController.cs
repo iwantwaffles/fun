@@ -18,6 +18,9 @@ namespace MyMvcSite.Domain.Controllers
         // GET: Forum
         public ActionResult Index()
         {
+            ViewBag.Label = "Under Construction";
+            ViewBag.Message = "Start posting, and maybe, people will start talking.";
+            
             return View(db.Forums.ToList());
         }
 

@@ -40,11 +40,11 @@ namespace MyMvcSite.Domain.DAL
             context.SaveChanges();
             var posts = new List<Post>
             {
-            new Post{PostID=1,Body="This is a test",Member="",CreationDate=DateTime.Parse("2005-09-01"),LastUpdated=DateTime.Parse("2005-10-01")},
-            new Post{PostID=2,Body="This is a test",Member="",CreationDate=DateTime.Parse("2005-09-02"),LastUpdated=DateTime.Parse("2005-10-02")},
-            new Post{PostID=3,Body="This is a test",Member="",CreationDate=DateTime.Parse("2005-09-03"),LastUpdated=DateTime.Parse("2005-10-03")},
-            new Post{PostID=4,Body="This is a test",Member="",CreationDate=DateTime.Parse("2005-09-04"),LastUpdated=DateTime.Parse("2005-10-04")},
-            new Post{PostID=5,Body="This is a test",Member="",CreationDate=DateTime.Parse("2005-09-05"),LastUpdated=DateTime.Parse("2005-10-05")}
+            new Post{PostID=1,Body="This is a test",MemberID="1",CreationDate=DateTime.Parse("2005-09-01"),LastUpdated=DateTime.Parse("2005-10-01")},
+            new Post{PostID=2,Body="This is a test",MemberID="1",CreationDate=DateTime.Parse("2005-09-02"),LastUpdated=DateTime.Parse("2005-10-02")},
+            new Post{PostID=3,Body="This is a test",MemberID="2",CreationDate=DateTime.Parse("2005-09-03"),LastUpdated=DateTime.Parse("2005-10-03")},
+            new Post{PostID=4,Body="This is a test",MemberID="2",CreationDate=DateTime.Parse("2005-09-04"),LastUpdated=DateTime.Parse("2005-10-04")},
+            new Post{PostID=5,Body="This is a test",MemberID="2",CreationDate=DateTime.Parse("2005-09-05"),LastUpdated=DateTime.Parse("2005-10-05")}
             };
             posts.ForEach(s => context.Posts.Add(s));
             context.SaveChanges();
