@@ -6,38 +6,19 @@ using System.Web;
 
 namespace MyMvcSite.Domain.DAL
 {
-    public class IMemberRepository : IDisposable
+    public interface IMemberRepository : IDisposable
     {
         IEnumerable<Member> GetMembers();
-        Member GetStudentByID(int MemberId);
-        void InsertStudent(Member member);
-        void DeleteStudent(int MemberID);
-        void UpdateStudent(Member member);
+        Member GetMemberByID(int MemberId);
+        void InsertMember(Member member);
+        void DeleteMember(int MemberID);
+        void UpdateMember(Member member);
         void Save();
 
-        internal object GetMembers()
-        {
-            throw new NotImplementedException();
-        }
+        
 
-        internal Member GetMemberByID(int p)
-        {
-            throw new NotImplementedException();
-        }
 
-        internal void InsertMember(Member member)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal void Save()
-        {
-            throw new NotImplementedException();
-        }
-
-        internal void UpdateMember(Member member)
-        {
-            throw new NotImplementedException();
-        }
+        
+      
     }
 }

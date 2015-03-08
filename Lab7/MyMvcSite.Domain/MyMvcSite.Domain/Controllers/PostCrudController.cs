@@ -56,9 +56,9 @@ namespace MyMvcSite.Domain.Controllers
                 post.CreationDate = postVM.CreationDate;
                 post.LastUpdated = postVM.LastUpdated;
 
-                var member = (from m in db.Members
+                /*var member = (from m in db.Members
                              where m.UserName == postVM.MemberViewModel.UserName
-                             select m);
+                             select m);*/
                 
                 db.Posts.Add(post);
                 db.SaveChanges();

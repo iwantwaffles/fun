@@ -25,10 +25,10 @@ namespace MyMvcSite.Domain.Controllers
                 {
                     Body = aPost.Body,
                     CreationDate = aPost.CreationDate,
-                    MemberID = new MemberViewModel()
+                    /*MemberID = new MemberViewModel()
                     {
                         UserName = u.UserName
-                    }
+                    }*/
                 });
             }
 

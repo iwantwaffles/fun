@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-MyMvcSite.Domain-20150126015433.mdf;Initial Catalog=aspnet-MyMvcSite.Domain-20150126015433;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\waffles\\Desktop\\School\\CS296\\fun\\Lab7\\MyMvcSite\.Domain\\MyMvcSite\.Domain\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="ForumContext-Web.config Connection String" description="ForumContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=MyMvcSite.Domain1;Integrated Security=SSPI;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\waffles\\Desktop\\School\\CS296\\fun\\Lab7\\MyMvcSite\.Domain\\MyMvcSite\.Domain\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ForumContext']/@connectionString" />
+  </parameter>
+  <parameter name="ForumContext_DatabasePublish-Web.config Connection String" description="ForumContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="ForumContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\waffles\\Desktop\\School\\CS296\\fun\\Lab7\\MyMvcSite\.Domain\\MyMvcSite\.Domain\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ForumContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>
