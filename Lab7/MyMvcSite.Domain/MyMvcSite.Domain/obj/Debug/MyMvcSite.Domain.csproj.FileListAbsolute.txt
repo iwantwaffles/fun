@@ -328,3 +328,4 @@ C:\Users\waffles\Desktop\School\CS296\fun\Lab7\MyMvcSite.Domain\MyMvcSite.Domain
 C:\Users\waffles\Desktop\School\CS296\fun\Lab7\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.pdb
 C:\Users\waffles\Desktop\School\CS296\fun\Lab7\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.Migrations.InitialCreate.resources
 C:\Users\waffles\Desktop\School\CS296\fun\Lab7\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.csproj.GenerateResource.Cache
+C:\Users\waffles\Desktop\School\CS296\fun\Lab7\MyMvcSite.Domain\MyMvcSite.Domain\obj\Debug\MyMvcSite.Domain.csprojResolveAssemblyReference.cache
