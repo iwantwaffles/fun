@@ -1,0 +1,286 @@
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\MyMvcSite.dll.config
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Antlr3.Runtime.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\EntityFramework.SqlServer.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Newtonsoft.Json.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.Helpers.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.Mvc.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.Optimization.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.WebPages.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\WebGrease.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.Helpers.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.Mvc.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.Optimization.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.WebPages.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Antlr3.Runtime.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Newtonsoft.Json.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\EntityFramework.SqlServer.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\obj\Debug\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\obj\Debug\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite\MyMvcSite\obj\Debug\MyMvcSite.csprojResolveAssemblyReference.cache
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\MyMvcSite.dll.config
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Antlr3.Runtime.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\EntityFramework.SqlServer.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Newtonsoft.Json.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.Helpers.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.Mvc.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.Optimization.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.WebPages.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\WebGrease.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\EntityFramework.SqlServer.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.Helpers.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.Mvc.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.Optimization.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.WebPages.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Antlr3.Runtime.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Newtonsoft.Json.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\obj\Debug\MyMvcSite.csprojResolveAssemblyReference.cache
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\obj\Debug\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite - Copy\MyMvcSite\obj\Debug\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\MyMvcSite.dll.config
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Antlr3.Runtime.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\EntityFramework.SqlServer.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Newtonsoft.Json.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.Helpers.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.Mvc.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.Optimization.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.WebPages.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\WebGrease.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\EntityFramework.SqlServer.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.Helpers.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.Mvc.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.Optimization.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.WebPages.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Antlr3.Runtime.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Newtonsoft.Json.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\obj\Debug\MyMvcSite.csprojResolveAssemblyReference.cache
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\obj\Debug\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite X\MyMvcSite\obj\Debug\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\MyMvcSite.dll.config
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Antlr3.Runtime.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\EntityFramework.SqlServer.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Newtonsoft.Json.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\PagedList.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\PagedList.Mvc.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.Helpers.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.Mvc.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.Optimization.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.WebPages.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\WebGrease.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\EntityFramework.SqlServer.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\PagedList.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\PagedList.Mvc.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.Helpers.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.Mvc.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.Optimization.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.WebPages.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Antlr3.Runtime.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Newtonsoft.Json.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\obj\Debug\MyMvcSite.csprojResolveAssemblyReference.cache
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\obj\Debug\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Y\MyMvcSite\obj\Debug\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\MyMvcSite.dll.config
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Antlr3.Runtime.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\EntityFramework.SqlServer.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Newtonsoft.Json.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Owin.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\PagedList.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\PagedList.Mvc.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.Helpers.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.Mvc.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.Optimization.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.WebPages.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\WebGrease.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\EntityFramework.SqlServer.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\PagedList.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\PagedList.Mvc.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.Helpers.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.Mvc.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.Optimization.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.WebPages.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Antlr3.Runtime.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Newtonsoft.Json.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\obj\Debug\MyMvcSite.csprojResolveAssemblyReference.cache
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\obj\Debug\MyMvcSite.dll
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\obj\Debug\MyMvcSite.pdb
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\obj\Debug\MyMvcSite.Migrations.InitialCreate.resources
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\obj\Debug\MyMvcSite.csproj.GenerateResource.Cache
+C:\Users\waffles\Desktop\School\CS296\MyMvcSite Final\MyMvcSite\obj\Debug\MyMvcSite.Migrations.InitialCreate1.resources

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TheCoolestMessageBord" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\waffles\\Desktop\\School\\CS296\\MyMvcSite\ Final\\MyMvcSite\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\waffles\\Desktop\\School\\CS296\\MyMvcSite\ Final\\MyMvcSite\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:ls64r5dqbd.database.windows.net,1433;Initial Catalog=TheCoolestMessageBordDB;User Id=iwantwaffles@ls64r5dqbd;Password=Sadfer17" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\waffles\\Desktop\\School\\CS296\\MyMvcSite\ Final\\MyMvcSite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="MessageBoardContext-Web.config Connection String" description="" value="Data Source=tcp:ls64r5dqbd.database.windows.net,1433;Initial Catalog=TheCoolestMessageBordDB;User Id=iwantwaffles@ls64r5dqbd;Password=Sadfer17" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\waffles\\Desktop\\School\\CS296\\MyMvcSite\ Final\\MyMvcSite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MessageBoardContext']/@connectionString" />
+  </parameter>
+</parameters>

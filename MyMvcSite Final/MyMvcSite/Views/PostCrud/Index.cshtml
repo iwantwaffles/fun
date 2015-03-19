@@ -1,0 +1,64 @@
+﻿@model PagedList.IPagedList<MyMvcSite.Models.Post>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    //ViewBag.Title = "Index";
+}
+
+<h2 style="color:blue;">SUPER AWESEOME MESSAGE BOARD</h2>
+<div>
+<p>
+    <p class="btn btn-default">@Html.ActionLink("New Post", "Create")</p>
+<p></p>
+
+@using (Html.BeginForm("Index", "PostCrud", FormMethod.Get))
+{
+    <p style="float: right;">
+        Search Message Board: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table" >
+    <tr>
+        <th style="width:600px;">
+            @Html.ActionLink("Topic", "Index", new { sortOrder = ViewBag.PostSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th style ="width:200px;">
+            @Html.ActionLink("Created By", "Index", new { sortOrder = ViewBag.UserSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th style="width:200px;">
+            @Html.ActionLink("Date Posted", "Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Message)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DatePosted)
+        </td>
+        <td>
+            @Html.ActionLink("Comments", "Details", new { id=item.PostId }) |
+            @Html.ActionLink("Reply", "Reply", new { id=item.PostId }) 
+            @*|@Html.ActionLink("Delet", "Delete", new { id = item.PostId })*@
+        </td>
+    </tr>
+}
+   
+
+</table>
+
+    <br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</div>

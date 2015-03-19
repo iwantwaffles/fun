@@ -1,0 +1,55 @@
+﻿@model MyMvcSite.Models.PostViewModel
+
+@{
+    ViewBag.Title = "Comments";
+}
+
+<h2 style="color:blue;">SUPER AWESEOME MESSAGE BOARD</h2>
+
+<div>
+    <h4>Comments</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Message)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Message)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatePosted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatePosted)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Comments)
+        </dt>
+       
+
+        @foreach (var c in Model.Comments)
+        {
+            <dd>
+                @Html.DisplayFor(model => c.Username)
+                @Html.DisplayFor(x => c.Message)
+                @* @Html.Display(c.)*@
+                </dd>
+            }
+
+
+        </dl>
+    </div>
+    <p>
+    @Html.ActionLink("Back to List", "Index") 
+</p>

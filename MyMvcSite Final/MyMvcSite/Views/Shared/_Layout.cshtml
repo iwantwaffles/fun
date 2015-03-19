@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - The Coolest Message Bord</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body onload="javascript: changecolors()"> 
+    
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("The Coolest Message Bord", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Message Board", "Index", "PostCrud")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - The Coolest Message Bord</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script type="text/javascript">
+        var x;
+
+        function changecolors() {
+            x = 1;
+            setInterval(change, 200);
+        }
+
+        function change()
+        {
+            if (x === 1)
+            {
+                color = "deeppink";
+                x = 2;
+            }
+            else if (x === 2)
+            {
+                color = "yellow";
+                x = 3;
+            }
+            else if(x === 3)
+            {
+                color = "aqua";
+                x = 4;
+            }
+            else if (x === 4)
+            {
+                color = "lime";
+                x = 5;
+            }
+            else if (x === 5) {
+                color = "white";
+                x = 1;
+            }
+            document.body.style.background = color;
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿@model MyMvcSite.Models.Comment
+
+@{
+    ViewBag.Title = "Reply To A Post";
+}
+
+
+<div>
+    <h1 style ="color:blue;"> @ViewBag.PostMessage</h1> 
+        <h5 style="color:blue;">Posted By: @ViewBag.Poster </h5> @*displays Owner*@
+</div>
+
+<h3 style="text-decoration:underline">Reply To Post</h3>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Username, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("user", (IEnumerable<SelectListItem>)ViewBag.userList, "Select a User")
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Message, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.EditorFor(model => model.Message, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Message, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Submit" class="btn btn-default" />
+                
+                <p class="btn btn-default"> @Html.ActionLink("Cancel", "Index", "PostCrud")</p>    @*Button to Gallery*@
+            </div>
+        </div>
+    </div>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<div class="col-md-4">
+</div>
